@@ -217,6 +217,8 @@ const Home = () => {
       >
         <WaitingForDriver setWaitingForDriver={setWaitingForDriver} />
       </div>
+
+      
     </div>
   );
 };
